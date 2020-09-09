@@ -5,13 +5,9 @@ end
 def using_sort(array)
   sorted_array = array.sort
 end
-  sorted_array
-end
 
 def using_reverse(array)
   reversed_array = array.reverse
-end
-  reversed_array
 end
 
 def using_first(array)
